@@ -1,0 +1,23 @@
+.game-border{
+    width: 821px;
+    height: 424px;
+    border: 4px solid yellowgreen;
+    margin: auto;
+}
+
+#tosha{
+    width: 65px;
+    height: 65px;
+    margin-top: 359px;
+    margin-left: 25px;
+background-color: black;
+
+}
+
+#zahando{
+    width: 65px;
+    height: 65px;
+    margin-bottom: 350px;
+    margin-left: 505px;
+background-color: black;
+}
